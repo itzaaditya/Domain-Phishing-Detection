@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+jupyterlab
+
+# Utilities
+tqdm
+joblib
+
+# Web/Data
+requests
+beautifulsoup4
+lxml
+
+# Deployment (choose based on API type)
+flask
+fastapi
+uvicorn
